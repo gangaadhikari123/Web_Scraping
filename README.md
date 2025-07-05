@@ -172,4 +172,4 @@ The script includes basic error handling:
 - The script is specifically designed for the HTML structure found in `scrap.html`
 - It filters properties based on the presence of 'Pokhara' in the address field
 - The output is saved in UTF-8 encoding to properly handle Nepali characters
-- The script processes all listings but only saves those matching the Pokhara criteria 
+- The script processes all listings but only saves those matching the Pokhara criteria
